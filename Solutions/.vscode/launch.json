@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\6 kyu Counting Duplicates.js"
+            "program": "${workspaceFolder}\\5 kyu  Common Denominators.js"
         }
     ]
 }
